@@ -4,7 +4,7 @@
 
 This project uses a IMDB dataset from the UCI Machine Learning Repository, comprising data from 30 different movies. The dataset contains the IMDB rating for each movie, as well as one-hot encoding for the movie Genre (Biography, Drama, Thriller, Comedy, Crime, Mystery, History)
 
-**Dataset Path:** [Census Data CSV](https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv)
+**Dataset Path:** [IMDB Data CSV](https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv)
 
 ## Objective
 
